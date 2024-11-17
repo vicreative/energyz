@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "name": "Solar Panel Installation - Residential",
+    "description": "A comprehensive installation of solar panels for residential properties.",
+    "status": "approved"
+  },
+  {
+    "id": "2",
+    "name": "Heat Pump Upgrade - Commercial",
+    "description": "Upgrade existing HVAC systems to energy-efficient heat pumps for commercial buildings.",
+    "status": "in_review"
+  },
+  {
+    "id": "3",
+    "name": "Solar Panel Maintenance",
+    "description": "Routine maintenance service for solar panel systems to ensure optimal performance.",
+    "status": "approved"
+  },
+  {
+    "id": "4",
+    "name": "Heat Pump Installation - Residential",
+    "description": "Installation of advanced heat pumps for residential heating and cooling needs.",
+    "status": "rejected"
+  },
+  {
+    "id": "5",
+    "name": "Solar Water Heater Installation",
+    "description": "Installing solar water heaters to reduce energy costs and increase efficiency.",
+    "status": "approved"
+  },
+  {
+    "id": "6",
+    "name": "Geothermal Heat Pump System",
+    "description": "Installation of geothermal heat pump systems for energy-efficient climate control.",
+    "status": "approved"
+  },
+  {
+    "id": "7",
+    "name": "Community Solar Project",
+    "description": "Development of a community solar project to provide renewable energy to local residents.",
+    "status": "in_review"
+  },
+  {
+    "id": "8",
+    "name": "Heat Pump Repair Services",
+    "description": "Emergency repair services for malfunctioning heat pumps in residential and commercial properties.",
+    "status": "approved"
+  },
+  {
+    "id": "9",
+    "name": "Solar Panel Recycling Program",
+    "description": "Program to recycle old solar panels safely and sustainably.",
+    "status": "in_review"
+  },
+  {
+    "id": "10",
+    "name": "Heat Pump Energy Audit",
+    "description": "Conducting energy audits to determine the most efficient heat pump solutions for clients.",
+    "status": "approved"
+  },
+  {
+    "id": "11",
+    "name": "Solar Panel Performance Monitoring",
+    "description": "Installing systems to monitor the performance of solar panels in real-time.",
+    "status": "approved"
+  },
+  {
+    "id": "12",
+    "name": "Heat Pump Sizing Consultation",
+    "description": "Consultation service to determine the appropriate size of heat pumps for specific needs.",
+    "status": "approved"
+  },
+  {
+    "id": "13",
+    "name": "Solar Panel Financing Solutions",
+    "description": "Providing financing options for homeowners to install solar panels.",
+    "status": "in_review"
+  },
+  {
+    "id": "14",
+    "name": "Hybrid Heat Pump Installation",
+    "description": "Installation of hybrid systems combining heat pumps with traditional heating methods.",
+    "status": "approved"
+  },
+  {
+    "id": "15",
+    "name": "Solar Energy Storage Solutions",
+    "description": "Installing battery storage systems to store solar energy for later use.",
+    "status": "in_review"
+  },
+  {
+    "id": "16",
+    "name": "Heat Pump System Optimization",
+    "description": "Optimizing existing heat pump systems for improved efficiency and performance.",
+    "status": "approved"
+  },
+  {
+    "id": "17",
+    "name": "Solar Panel Training Workshops",
+    "description": "Educational workshops for professionals on solar panel installation and maintenance.",
+    "status": "approved"
+  },
+  {
+    "id": "18",
+    "name": "Smart Heat Pump Technology",
+    "description": "Integrating smart technology into heat pump systems for better control and efficiency.",
+    "status": "in_review"
+  },
+  {
+    "id": "19",
+    "name": "Solar Panel Incentive Program",
+    "description": "Program to incentivize the installation of solar panels through rebates and grants.",
+    "status": "approved"
+  },
+  {
+    "id": "20",
+    "name": "Heat Pump for Swimming Pools",
+    "description": "Installation of heat pumps specifically designed for heating swimming pools.",
+    "status": "rejected"
+  },
+  {
+    "id": "21",
+    "name": "Solar Panel Testing Services",
+    "description": "Testing services to evaluate the efficiency and safety of solar panel systems.",
+    "status": "approved"
+  },
+  {
+    "id": "22",
+    "name": "Integrated Solar Solutions",
+    "description": "Offering integrated solutions that combine solar energy and heat pumps for optimal energy use.",
+    "status": "in_review"
+  },
+  {
+    "id": "23",
+    "name": "Commercial Solar Panel Installation",
+    "description": "Large-scale solar panel installations for commercial buildings and facilities.",
+    "status": "approved"
+  },
+  {
+    "id": "24",
+    "name": "Solar Panel Lease Program",
+    "description": "Leasing options for solar panel systems to reduce upfront costs for homeowners.",
+    "status": "approved"
+  },
+  {
+    "id": "25",
+    "name": "Heat Pump Maintenance Plans",
+    "description": "Long-term maintenance plans for heat pump systems to ensure reliability and efficiency.",
+    "status": "approved"
+  },
+  {
+    "id": "26",
+    "name": "Solar Panel Site Assessment",
+    "description": "Assessing sites for solar panel installation to ensure optimal energy capture.",
+    "status": "in_review"
+  },
+  {
+    "id": "27",
+    "name": "Heat Pump Cost-Benefit Analysis",
+    "description": "Analyzing the costs and benefits of installing heat pumps in residential and commercial settings.",
+    "status": "approved"
+  },
+  {
+    "id": "28",
+    "name": "Solar Power Purchase Agreement",
+    "description": "Arranging power purchase agreements for businesses looking to invest in solar energy.",
+    "status": "approved"
+  },
+  {
+    "id": "29",
+    "name": "Heat Pump Decommissioning Services",
+    "description": "Safe decommissioning of old heat pump systems to prepare for new installations.",
+    "status": "rejected"
+  },
+  {
+    "id": "30",
+    "name": "Residential Solar Incentive Program",
+    "description": "Incentive programs for homeowners to adopt solar energy solutions.",
+    "status": "approved"
+  },
+  {
+    "id": "1",
+    "name": "Solar Panel Installation - Residential",
+    "description": "A comprehensive installation of solar panels for residential properties.",
+    "status": "approved"
+  },
+  {
+    "id": "2",
+    "name": "Heat Pump Upgrade - Commercial",
+    "description": "Upgrade existing HVAC systems to energy-efficient heat pumps for commercial buildings.",
+    "status": "in_review"
+  },
+  {
+    "id": "31",
+    "name": "Heat Pump Installation - Residential",
+    "description": "Installation of advanced heat pumps for residential heating and cooling needs.",
+    "status": "approved"
+  },
+  {
+    "id": "32",
+    "name": "Heat Pump Upgrade - Commercial",
+    "description": "Upgrade existing HVAC systems to energy-efficient heat pumps for commercial buildings.",
+    "status": "in_review"
+  },
+  {
+    "id": "33",
+    "name": "Heat Pump for Swimming Pools",
+    "description": "Installation of heat pumps specifically designed for heating swimming pools.",
+    "status": "approved"
+  },
+  {
+    "id": "34",
+    "name": "Solar Water Heater Installation",
+    "description": "Installing solar water heaters to reduce energy costs and increase efficiency.",
+    "status": "approved"
+  },
+  {
+    "id": "35",
+    "name": "Solar Panel Performance Monitoring",
+    "description": "Installing systems to monitor the performance of solar panels in real-time.",
+    "status": "in_review"
+  },
+  {
+    "id": "36",
+    "name": "Solar Panel Testing Services",
+    "description": "Testing services to evaluate the efficiency and safety of solar panel systems.",
+    "status": "approved"
+  },
+  {
+    "id": "37",
+    "name": "Smart Heat Pump Technology",
+    "description": "Integrating smart technology into heat pump systems for better control and efficiency.",
+    "status": "rejected"
+  },
+  {
+    "id": "38",
+    "name": "Hybrid Heat Pump Installation",
+    "description": "Installation of hybrid systems combining heat pumps with traditional heating methods.",
+    "status": "approved"
+  },
+  {
+    "id": "39",
+    "name": "Community Solar Project",
+    "description": "Development of a community solar project to provide renewable energy to local residents.",
+    "status": "approved"
+  },
+  {
+    "id": "40",
+    "name": "Geothermal Heat Pump System",
+    "description": "Installation of geothermal heat pump systems for energy-efficient climate control.",
+    "status": "in_review"
+  }
+]
