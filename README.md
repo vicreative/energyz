@@ -29,12 +29,7 @@ git clone https://github.com/vicreative/energz.git
 cd energz
 ```
 
-2. #### Environment Configuration
-
-- Create `.env`(root directory): Copy `.env.example` to `.env`
-- Update `.env`: Fill in necessary environment variables
-
-3. #### Start the Prometheus and the Application in Docker
+2. #### Start the Prometheus and the Application in Docker
 
 To build and run the application containerized:
 
@@ -42,11 +37,11 @@ To build and run the application containerized:
 docker compose up --build
 ```
 
-4. #### Access the Application
+3. #### Access the Application
 
 Once the Docker container is running, the application will be accessible at http://localhost:8080 while Prometheus dashboard will be accessible at http://localhost:9090. (Here, you can visualize and monitor metrics collected from the application.)
 
-5. #### Stopping the Application
+4. #### Stopping the Application
 
 To stop the application:
 
