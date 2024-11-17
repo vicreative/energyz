@@ -17,9 +17,13 @@ RUN if [ "$NODE_ENV" = "production" ]; then \
       npm install; \
     fi
 
+
 # Copy .env.example and set up .env if not already provided
 COPY .env.example ./
 RUN [ ! -f .env ] && cp .env.example .env || echo ".env already exists."
+
+# Ensure the .env file is copied to the working directory
+COPY .env ./
 
 # Run the application as a non-root user.
 USER node
