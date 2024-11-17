@@ -1,4 +1,3 @@
-
 ARG NODE_VERSION=18.18.0
 
 FROM node:${NODE_VERSION}-alpine
@@ -17,6 +16,10 @@ RUN if [ "$NODE_ENV" = "production" ]; then \
     else \
       npm install; \
     fi
+
+# Copy .env.example and set up .env if not already provided
+COPY .env.example ./
+RUN [ ! -f .env ] && cp .env.example .env || echo ".env already exists."
 
 # Run the application as a non-root user.
 USER node
